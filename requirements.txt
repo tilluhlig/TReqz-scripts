@@ -1,0 +1,6 @@
+requests
+setuptools
+xmltodict
+lxml
+unittest2
+argparse
